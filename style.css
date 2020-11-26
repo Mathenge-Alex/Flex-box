@@ -8,6 +8,11 @@ ul a{
     text-decoration: none;
     cursor: pointer;
 }
+
+h1{
+    text-align: center;
+    margin: 5rem;
+}
 @media(min-width:468px){
     .container-1{
         display: flex;
@@ -49,6 +54,7 @@ order: 3;
 }
 .container-2-box{
 flex-basis: 30%; /* width */
+margin: auto;
 
 }
 .container-3-box{
