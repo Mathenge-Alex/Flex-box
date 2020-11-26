@@ -34,12 +34,13 @@ h1{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    background-color: #ccc;
 }
 
 .container-1 div, .container-2 div, .container-3 div{
-border: 1px #ccc solid;
+border: 1px #444141 solid;
 padding: 10px;
-margin-top: 3rem;
+margin: 3rem auto;
 }
 .box-1{
 flex: 2;
